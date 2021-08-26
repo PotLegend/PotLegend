@@ -4,7 +4,7 @@
 
 <p align="center">
  💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
+ Let's code every day and Learn every time.<br>
  Let's go beyond our limits<br>
 </p>
 
